@@ -16,19 +16,14 @@ export default ({ data: { allAllCatsV4Json: { totalCount, edges } } }) => {
       imgs
     }
   })
-  .filter(({ imgs }) => imgs && imgs.length)
+  .filter(({ imgs }) => !imgs || !imgs.length)
 
   // <pre>{JSON.stringify(zz, null, '  ')}</pre>
   return (
     <div>
-      <p>oh my! We have {totalCount} in total.
-      See <Link to='/black/'>black cats only (no picture)</Link>.
-      </p>
+      <p>oh my! We have {totalCount} black cats. See <Link to='/'>cats with picture</Link>.</p>
       {zz.map(({ imgs, url, g3 }) => (
         <div style={style}>
-          {imgs.map((i) => (
-            <img src={i} alt={g3.name} />
-          ))}
           <h2>{g3.name} ({g3.Sexe}) <small>#{g3.No_de_R_f_rence}</small></h2>
           {g3.POSTING_DATE} {g3.Taille} {g3.Couleur} {g3.Race}{g3._ge && ` de ${g3._ge} ans`}<br />
           Dégriffé? {g3.D_griff_}<br />
@@ -42,6 +37,13 @@ export default ({ data: { allAllCatsV4Json: { totalCount, edges } } }) => {
 export const query = graphql`
   query {
     allAllCatsV4Json (
+      filter: {
+        g3: {
+          Couleur: {
+            eq: "Black"
+          }
+        }
+      }
       sort: {
         fields: [g3___POSTING_DATE]
         order: DESC
