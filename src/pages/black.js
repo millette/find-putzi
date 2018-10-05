@@ -42,6 +42,9 @@ export const query = graphql`
           Couleur: {
             eq: "Black"
           }
+          Race: {
+            eq: "Domestic Shorthair"
+          }
         }
       }
       sort: {
