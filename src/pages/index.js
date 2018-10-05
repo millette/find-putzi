@@ -22,7 +22,7 @@ export default ({ data: { allAllCatsV4Json: { totalCount, edges } } }) => {
   return (
     <div>
       <p>oh my! We have {totalCount} in total.
-      See <Link to='/black/'>black cats only (no picture)</Link>.
+      See <Link to='/black/'>black cats only (no picture)</Link> and all <Link to='/by/'>categories</Link>.
       </p>
       {zz.map(({ imgs, url, g3 }) => (
         <div style={style}>

@@ -21,7 +21,7 @@ export default ({ data: { allAllCatsV4Json: { totalCount, edges } } }) => {
   // <pre>{JSON.stringify(zz, null, '  ')}</pre>
   return (
     <div>
-      <p>oh my! We have {totalCount} black cats. See <Link to='/'>cats with picture</Link>.</p>
+      <p>oh my! We have {totalCount} black cats. See <Link to='/'>cats with picture</Link> and all <Link to='/by/'>categories</Link>.</p>
       {zz.map(({ imgs, url, g3 }) => (
         <div style={style}>
           <h2>{g3.name} ({g3.Sexe}) <small>#{g3.No_de_R_f_rence}</small></h2>
