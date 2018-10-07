@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 
-const colors = {
+const couleur = {
   Butterscotch: '#c67941',
   Charcoal: '#1b0227',
   Cream: '#c9bb53',
@@ -9,7 +9,7 @@ const colors = {
 }
 
 const colorStyle = fieldValue => ({
-  backgroundColor: colors[fieldValue] || fieldValue,
+  backgroundColor: couleur[fieldValue] || fieldValue,
   transformOrigin: '50%',
   padding: '0.25rem',
   margin: '0.25rem 0.25rem 0.25rem 9rem',
@@ -18,11 +18,11 @@ const colorStyle = fieldValue => ({
 
 export default ({
   data: {
-    sex: { sex },
-    size: { size },
-    declawd: { declawd },
-    colors: { colors },
-    races: { races }
+    sexe: { sexe },
+    taille: { taille },
+    degriffe: { degriffe },
+    couleur: { couleur },
+    race: { race }
   }
 }) => {
   return (
@@ -31,43 +31,53 @@ export default ({
       <Link to='/black/'>Only black cats</Link>
       <h2>By sex</h2>
       <ul>
-        {sex.map(({ fieldValue, totalCount }) => (
+        {sexe.map(({ fieldValue, totalCount }) => (
           <li key={fieldValue}>
-            {totalCount} {fieldValue}
+            <Link to={`/by/sexe/${fieldValue}/`}>
+              {totalCount} {fieldValue}
+            </Link>
           </li>
         ))}
       </ul>
-      <h2>By size</h2>
+      <h2>By taille</h2>
       <ul>
-        {size.map(({ fieldValue, totalCount }) => (
+        {taille.map(({ fieldValue, totalCount }) => (
           <li key={fieldValue}>
-            {totalCount} {fieldValue}
+            <Link to={`/by/taille/${fieldValue}/`}>
+              {totalCount} {fieldValue}
+            </Link>
           </li>
         ))}
       </ul>
       <h2>Declawd?</h2>
       <ul>
-        {declawd.map(({ fieldValue, totalCount }) => (
+        {degriffe.map(({ fieldValue, totalCount }) => (
           <li key={fieldValue}>
-            {totalCount} {fieldValue}
+            <Link to={`/by/degriffe/${fieldValue}/`}>
+              {totalCount} {fieldValue}
+            </Link>
           </li>
         ))}
       </ul>
       <h2>By color</h2>
       <ul>
-        {colors.map(({ fieldValue, totalCount }) => (
+        {couleur.map(({ fieldValue, totalCount }) => (
           <li key={fieldValue} style={colorStyle(fieldValue)}>
-            <span style={{ marginLeft: '-9rem' }}>
-              {totalCount} {fieldValue}
-            </span>
+            <Link to={`/by/couleur/${fieldValue}/`}>
+              <span style={{ marginLeft: '-9rem' }}>
+                {totalCount} {fieldValue}
+              </span>
+            </Link>
           </li>
         ))}
       </ul>
       <h2>By race</h2>
       <ul>
-        {races.map(({ fieldValue, totalCount }) => (
+        {race.map(({ fieldValue, totalCount }) => (
           <li key={fieldValue}>
-            {totalCount} {fieldValue}
+            <Link to={`/by/race/${fieldValue}/`}>
+              {totalCount} {fieldValue}
+            </Link>
           </li>
         ))}
       </ul>
@@ -77,32 +87,32 @@ export default ({
 
 export const query = graphql`
   query {
-    sex: allAllCatsV5Json(filter: { noDeReference: { ne: null } }) {
-      sex: group(field: sexe) {
+    sexe: allAllCatsV5Json(filter: { noDeReference: { ne: null } }) {
+      sexe: group(field: sexe) {
         fieldValue
         totalCount
       }
     }
-    size: allAllCatsV5Json(filter: { noDeReference: { ne: null } }) {
-      size: group(field: taille) {
+    taille: allAllCatsV5Json(filter: { noDeReference: { ne: null } }) {
+      taille: group(field: taille) {
         fieldValue
         totalCount
       }
     }
-    declawd: allAllCatsV5Json(filter: { noDeReference: { ne: null } }) {
-      declawd: group(field: degriffe) {
+    degriffe: allAllCatsV5Json(filter: { noDeReference: { ne: null } }) {
+      degriffe: group(field: degriffe) {
         fieldValue
         totalCount
       }
     }
-    colors: allAllCatsV5Json(filter: { noDeReference: { ne: null } }) {
-      colors: group(field: couleur) {
+    couleur: allAllCatsV5Json(filter: { noDeReference: { ne: null } }) {
+      couleur: group(field: couleur) {
         fieldValue
         totalCount
       }
     }
-    races: allAllCatsV5Json(filter: { noDeReference: { ne: null } }) {
-      races: group(field: race) {
+    race: allAllCatsV5Json(filter: { noDeReference: { ne: null } }) {
+      race: group(field: race) {
         fieldValue
         totalCount
       }
