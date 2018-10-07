@@ -53,7 +53,7 @@ export default ({ pageContext, data, location: { pathname } }) => {
 
     suggestions = suggestionsImp.slice(
       0,
-      suggestionsImp[5] && suggestionsImp[5].totalCount > 2 ? 5 : 8
+      suggestionsImp[5] && suggestionsImp[5].totalCount > 1 ? 5 : 8
     )
   }
 
