@@ -1,6 +1,161 @@
 [
   {
-    "noDeReference": "39854393",
+    "imgs": [
+      "http://g.petango.com/photos/2260/e22ee143-ac8b-44db-9da3-9fb9ac967d21.jpg"
+    ],
+    "noDeReference": "39872314",
+    "espece": "Cat",
+    "sexe": "Male",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Orange",
+    "degriffe": "No",
+    "postingDate": "2018-10-08",
+    "url": "https://www.spca.com/trouvee/39872314-cat-39872314"
+  },
+  {
+    "imgs": [
+      "http://g.petango.com/photos/2260/832387a0-e094-4525-bbfb-dd583dc7913a.jpg"
+    ],
+    "noDeReference": "39872171",
+    "espece": "Cat",
+    "sexe": "Unknown",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Brown",
+    "degriffe": "No",
+    "postingDate": "2018-10-07",
+    "url": "https://www.spca.com/trouvee/39872171-cat-39872171"
+  },
+  {
+    "noDeReference": "39872040",
+    "espece": "Cat",
+    "sexe": "Unknown",
+    "race": "Domestic Medium Hair",
+    "taille": "Medium",
+    "couleur": "Grey",
+    "degriffe": "No",
+    "postingDate": "2018-10-08",
+    "url": "https://www.spca.com/trouvee/39872040-cat-39872040"
+  },
+  {
+    "noDeReference": "39872039",
+    "espece": "Cat",
+    "sexe": "Unknown",
+    "race": "Domestic Medium Hair",
+    "taille": "Medium",
+    "couleur": "Black",
+    "degriffe": "No",
+    "postingDate": "2018-10-08",
+    "url": "https://www.spca.com/trouvee/39872039-cat-39872039"
+  },
+  {
+    "name": "Bibitte",
+    "imgs": [
+      "http://g.petango.com/photos/2260/d4457400-ef0b-41c5-ab1c-3a1829177430.jpg"
+    ],
+    "noDeReference": "39871425",
+    "espece": "Cat",
+    "sexe": "Female",
+    "race": "Domestic Shorthair",
+    "taille": "Small",
+    "couleur": "Black",
+    "degriffe": "No",
+    "postingDate": "2018-10-08",
+    "url": "https://www.spca.com/trouvee/39871425-cat-39871425"
+  },
+  {
+    "name": "Krusty",
+    "noDeReference": "39870053",
+    "espece": "Cat",
+    "age": 13,
+    "sexe": "Male",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Beige",
+    "degriffe": "No",
+    "postingDate": "2018-10-08",
+    "url": "https://www.spca.com/trouvee/39870053-cat-39870053"
+  },
+  {
+    "noDeReference": "39869567",
+    "espece": "Cat",
+    "age": 10,
+    "sexe": "Male",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "White",
+    "degriffe": "No",
+    "postingDate": "2018-10-08",
+    "url": "https://www.spca.com/trouvee/39869567-cat-39869567"
+  },
+  {
+    "noDeReference": "39869462",
+    "espece": "Cat",
+    "age": 6,
+    "sexe": "Male",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Brown",
+    "degriffe": "No",
+    "postingDate": "2018-10-08",
+    "url": "https://www.spca.com/trouvee/39869462-cat-39869462"
+  },
+  {
+    "noDeReference": "39868556",
+    "espece": "Cat",
+    "age": 9,
+    "sexe": "Male",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Grey",
+    "degriffe": "No",
+    "postingDate": "2018-10-08",
+    "url": "https://www.spca.com/trouvee/39868556-cat-39868556"
+  },
+  {
+    "name": "Jeremie",
+    "noDeReference": "39863460",
+    "espece": "Cat",
+    "sexe": "Male",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Black",
+    "degriffe": "No",
+    "postingDate": "2018-10-07",
+    "url": "https://www.spca.com/trouvee/jeremie-cat-39863460"
+  },
+  {
+    "name": "Chapristi",
+    "noDeReference": "39861938",
+    "espece": "Cat",
+    "age": 12,
+    "sexe": "Female",
+    "race": "Domestic Longhair",
+    "taille": "Medium",
+    "couleur": "Black",
+    "degriffe": "No",
+    "postingDate": "2018-10-07",
+    "url": "https://www.spca.com/trouvee/39861938-cat-39861938"
+  },
+  {
+    "name": "Odette",
+    "noDeReference": "39861931",
+    "espece": "Cat",
+    "age": 1,
+    "sexe": "Female",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Grey",
+    "degriffe": "No",
+    "postingDate": "2018-10-07",
+    "url": "https://www.spca.com/trouvee/39861931-cat-39861931"
+  },
+  {
+    "imgs": [
+      "http://g.petango.com/photos/2260/87c823f4-72f4-4f6a-8128-de5129a31395.jpg"
+    ],
+    "noDeReference": "39861871",
     "espece": "Cat",
     "sexe": "Unknown",
     "race": "Domestic Shorthair",
@@ -8,20 +163,105 @@
     "couleur": "Brown",
     "degriffe": "No",
     "postingDate": "2018-10-05",
-    "url": "https://www.spca.com/trouvee/39854393-cat-39854393"
+    "url": "https://www.spca.com/trouvee/39861871-cat-39861871"
   },
   {
-    "noDeReference": "39854392",
+    "noDeReference": "39860872",
+    "espece": "Cat",
+    "age": 8,
+    "sexe": "Male",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Black",
+    "degriffe": "No",
+    "postingDate": "2018-10-06",
+    "url": "https://www.spca.com/trouvee/39860872-cat-39860872"
+  },
+  {
+    "noDeReference": "39860715",
+    "espece": "Cat",
+    "age": 15,
+    "sexe": "Female",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Black",
+    "degriffe": "Yes",
+    "postingDate": "2018-10-06",
+    "url": "https://www.spca.com/trouvee/39860715-cat-39860715"
+  },
+  {
+    "noDeReference": "39860684",
+    "espece": "Cat",
+    "age": 18,
+    "sexe": "Male",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Brown",
+    "degriffe": "No",
+    "postingDate": "2018-10-06",
+    "url": "https://www.spca.com/trouvee/39860684-cat-39860684"
+  },
+  {
+    "noDeReference": "39857746",
+    "espece": "Cat",
+    "age": 4,
+    "sexe": "Male",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Butterscotch",
+    "degriffe": "No",
+    "postingDate": "2018-10-06",
+    "url": "https://www.spca.com/trouvee/39857746-cat-39857746"
+  },
+  {
+    "name": "Ether",
+    "noDeReference": "39857484",
+    "espece": "Cat",
+    "sexe": "Male",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Grey",
+    "degriffe": "No",
+    "postingDate": "2018-10-06",
+    "url": "https://www.spca.com/trouvee/ether-cat-39857484"
+  },
+  {
+    "noDeReference": "39855886",
     "espece": "Cat",
     "sexe": "Unknown",
+    "race": "Domestic Longhair",
+    "taille": "Medium",
+    "couleur": "Grey",
+    "degriffe": "No",
+    "postingDate": "2018-10-06",
+    "url": "https://www.spca.com/trouvee/39855886-cat-39855886"
+  },
+  {
+    "name": "Arthemis",
+    "noDeReference": "39854393",
+    "espece": "Cat",
+    "sexe": "Female",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Brown",
+    "degriffe": "No",
+    "postingDate": "2018-10-05",
+    "url": "https://www.spca.com/trouvee/arthemis-cat-39854393"
+  },
+  {
+    "name": "Apollon",
+    "noDeReference": "39854392",
+    "espece": "Cat",
+    "sexe": "Male",
     "race": "Domestic Shorthair",
     "taille": "Medium",
     "couleur": "Black",
     "degriffe": "No",
     "postingDate": "2018-10-05",
-    "url": "https://www.spca.com/trouvee/39854392-cat-39854392"
+    "url": "https://www.spca.com/trouvee/apollon-cat-39854392"
   },
   {
+    "name": "Sherlock",
     "noDeReference": "39853105",
     "espece": "Cat",
     "age": 6,
@@ -34,6 +274,7 @@
     "url": "https://www.spca.com/trouvee/39853105-cat-39853105"
   },
   {
+    "name": "Ludovic",
     "noDeReference": "39849985",
     "espece": "Cat",
     "sexe": "Male",
@@ -42,7 +283,7 @@
     "couleur": "Black",
     "degriffe": "No",
     "postingDate": "2018-10-05",
-    "url": "https://www.spca.com/trouvee/39849985-cat-39849985"
+    "url": "https://www.spca.com/trouvee/ludovic-cat-39849985"
   },
   {
     "imgs": [
@@ -124,7 +365,7 @@
     "couleur": "White",
     "degriffe": "No",
     "postingDate": "2018-10-04",
-    "url": "https://www.spca.com/trouvee/39845970-cat-39845970"
+    "url": "https://www.spca.com/trouvee/felina-cat-39845970"
   },
   {
     "imgs": [
@@ -141,6 +382,7 @@
     "url": "https://www.spca.com/trouvee/39845881-cat-39845881"
   },
   {
+    "name": "Djamila",
     "noDeReference": "39845043",
     "espece": "Cat",
     "sexe": "Female",
@@ -149,9 +391,10 @@
     "couleur": "Grey",
     "degriffe": "No",
     "postingDate": "2018-10-04",
-    "url": "https://www.spca.com/trouvee/39845043-cat-39845043"
+    "url": "https://www.spca.com/trouvee/djamila-cat-39845043"
   },
   {
+    "name": "Joelle",
     "imgs": [
       "http://g.petango.com/photos/2260/716d3a40-8be3-4d39-b4bf-ee84d0143ccd.jpg"
     ],
@@ -164,7 +407,7 @@
     "couleur": "Black",
     "degriffe": "No",
     "postingDate": "2018-10-04",
-    "url": "https://www.spca.com/trouvee/39843872-cat-39843872"
+    "url": "https://www.spca.com/trouvee/joelle-cat-39843872"
   },
   {
     "name": "Olivia",
@@ -176,23 +419,7 @@
     "couleur": "Grey",
     "degriffe": "No",
     "postingDate": "2018-10-04",
-    "url": "https://www.spca.com/trouvee/39843721-cat-39843721"
-  },
-  {
-    "imgs": [
-      "http://g.petango.com/photos/2260/2cffc6ff-6f32-40bc-b226-36812513134a.jpg",
-      "http://g.petango.com/photos/2260/2071bf2c-5ab1-47fd-9d15-9ddde731e546.jpg",
-      "http://g.petango.com/photos/2260/ad6c55c0-11c1-4a57-ae50-f3e6d1aca914.jpg"
-    ],
-    "noDeReference": "39843293",
-    "espece": "Cat",
-    "sexe": "Male",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Brown",
-    "degriffe": "No",
-    "postingDate": "2018-10-04",
-    "url": "https://www.spca.com/trouvee/39843293-cat-39843293"
+    "url": "https://www.spca.com/trouvee/olivia-cat-39843721"
   },
   {
     "name": "Guilbert",
@@ -210,35 +437,6 @@
     "url": "https://www.spca.com/trouvee/guilbert-cat-39829220"
   },
   {
-    "name": "Sylvana",
-    "imgs": [
-      "http://g.petango.com/photos/2260/be553aca-c9fe-4400-8b4a-2afebaf14a46.jpg"
-    ],
-    "noDeReference": "39829207",
-    "espece": "Cat",
-    "sexe": "Female",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Black",
-    "degriffe": "No",
-    "postingDate": "2018-10-03",
-    "url": "https://www.spca.com/trouvee/sylvana-cat-39829207"
-  },
-  {
-    "imgs": [
-      "http://g.petango.com/photos/2260/8ee4d711-a61f-45e1-b950-6d354efd5b20.jpg"
-    ],
-    "noDeReference": "39827181",
-    "espece": "Cat",
-    "sexe": "Male",
-    "race": "Domestic Shorthair",
-    "taille": "Large",
-    "couleur": "Grey",
-    "degriffe": "No",
-    "postingDate": "2018-10-01",
-    "url": "https://www.spca.com/trouvee/39827181-cat-39827181"
-  },
-  {
     "imgs": [
       "http://g.petango.com/photos/2260/e83435a3-f08a-4135-9a35-d789ad2ded4c.jpg",
       "http://g.petango.com/photos/2260/90da0a29-92d0-46f6-a63a-044294371651.jpg",
@@ -253,17 +451,6 @@
     "degriffe": "No",
     "postingDate": "2018-09-10",
     "url": "https://www.spca.com/trouvee/39826390-cat-39826390"
-  },
-  {
-    "noDeReference": "39825556",
-    "espece": "Cat",
-    "sexe": "Male",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Grey",
-    "degriffe": "No",
-    "postingDate": "2018-10-02",
-    "url": "https://www.spca.com/trouvee/39825556-cat-39825556"
   },
   {
     "imgs": [
@@ -493,24 +680,6 @@
     "url": "https://www.spca.com/trouvee/39802535-cat-39802535"
   },
   {
-    "name": "Monroe",
-    "imgs": [
-      "http://g.petango.com/photos/2260/7b8e6d57-253a-4d50-baaf-e19df15aaac8.jpg",
-      "http://g.petango.com/photos/2260/4c6de0ff-3ea9-4e61-b4f0-bd0942eb06c2.jpg",
-      "http://g.petango.com/photos/2260/63df5960-6bb2-4747-bb03-de16a8b06532.jpg"
-    ],
-    "noDeReference": "39802532",
-    "espece": "Cat",
-    "age": 3,
-    "sexe": "Female",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Black",
-    "degriffe": "No",
-    "postingDate": "2018-09-30",
-    "url": "https://www.spca.com/trouvee/monroe-cat-39802532"
-  },
-  {
     "imgs": [
       "http://g.petango.com/photos/2260/4645a167-ac2e-4b99-a78c-0e04c26b16b4.jpg"
     ],
@@ -534,37 +703,6 @@
     "degriffe": "No",
     "postingDate": "2018-09-30",
     "url": "https://www.spca.com/trouvee/39802492-cat-39802492"
-  },
-  {
-    "name": "Hello Kitty",
-    "noDeReference": "39801967",
-    "espece": "Cat",
-    "age": 6,
-    "sexe": "Female",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "White",
-    "degriffe": "No",
-    "postingDate": "2018-09-29",
-    "url": "https://www.spca.com/trouvee/hello-kitty-cat-39801967"
-  },
-  {
-    "name": "Dory",
-    "imgs": [
-      "http://g.petango.com/photos/2260/61ac3f9c-47c6-4372-9f51-095fc46344b3.jpg",
-      "http://g.petango.com/photos/2260/2f4f1219-e255-4368-8995-97df6eeb90e6.jpg",
-      "http://g.petango.com/photos/2260/c7768f5c-a4f4-4001-a456-d640289effc7.jpg"
-    ],
-    "noDeReference": "39798281",
-    "espece": "Cat",
-    "age": 1,
-    "sexe": "Female",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Black",
-    "degriffe": "No",
-    "postingDate": "2018-09-29",
-    "url": "https://www.spca.com/trouvee/dory-cat-39798281"
   },
   {
     "name": "Dorothy",
@@ -631,21 +769,6 @@
     "url": "https://www.spca.com/trouvee/garfield-cat-39794470"
   },
   {
-    "imgs": [
-      "http://g.petango.com/photos/2260/d7c4c892-dacd-450e-b724-b685cc267102.jpg",
-      "http://g.petango.com/photos/2260/41a7be62-ba81-4ae7-a44e-ef1f96bb1b9c.jpg"
-    ],
-    "noDeReference": "39793099",
-    "espece": "Cat",
-    "sexe": "Male",
-    "race": "Domestic Medium Hair",
-    "taille": "Medium",
-    "couleur": "Orange",
-    "degriffe": "No",
-    "postingDate": "2018-07-15",
-    "url": "https://www.spca.com/trouvee/39793099-cat-39793099"
-  },
-  {
     "name": "Marcelle",
     "noDeReference": "39792431",
     "espece": "Cat",
@@ -701,24 +824,6 @@
     "url": "https://www.spca.com/trouvee/calypso-cat-39775432"
   },
   {
-    "name": "Chacho",
-    "imgs": [
-      "http://g.petango.com/photos/2260/d0bf8d2a-6a71-4980-b52c-2517195bf6df.jpg",
-      "http://g.petango.com/photos/2260/4015f41b-075b-4375-80f2-5f22b675591c.jpg",
-      "http://g.petango.com/photos/2260/55afeef0-1ebb-4a7c-853e-12ef59ee9022.jpg"
-    ],
-    "noDeReference": "39771175",
-    "espece": "Cat",
-    "age": 9,
-    "sexe": "Male",
-    "race": "Domestic Longhair",
-    "taille": "Medium",
-    "couleur": "Black",
-    "degriffe": "No",
-    "postingDate": "2018-09-26",
-    "url": "https://www.spca.com/trouvee/chacho-cat-39771175"
-  },
-  {
     "name": "Miracle",
     "noDeReference": "39766786",
     "espece": "Cat",
@@ -729,24 +834,6 @@
     "degriffe": "No",
     "postingDate": "2018-09-26",
     "url": "https://www.spca.com/trouvee/miracle-cat-39766786"
-  },
-  {
-    "name": "Lucky Charm",
-    "imgs": [
-      "http://g.petango.com/photos/2260/674d1ff1-a9a7-4527-8d9f-b42f664e3c0b.jpg",
-      "http://g.petango.com/photos/2260/fd169043-7db1-468c-8d8e-478e347e8f4e.jpg",
-      "http://g.petango.com/photos/2260/b628854b-a6b2-4589-954c-6ef36613e446.jpg"
-    ],
-    "noDeReference": "39761475",
-    "espece": "Cat",
-    "age": 4,
-    "sexe": "Male",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Grey",
-    "degriffe": "Yes",
-    "postingDate": "2018-09-25",
-    "url": "https://www.spca.com/trouvee/lucky-charm-cat-39761475"
   },
   {
     "name": "Lou",
@@ -1240,6 +1327,18 @@
     "url": "https://www.spca.com/trouvee/coccinelle-cat-39707591"
   },
   {
+    "name": "Abeille",
+    "noDeReference": "39707562",
+    "espece": "Cat",
+    "sexe": "Female",
+    "race": "Domestic Medium Hair",
+    "taille": "Medium",
+    "couleur": "White",
+    "degriffe": "No",
+    "postingDate": "2018-09-19",
+    "url": "https://www.spca.com/trouvee/abeille-cat-39707562"
+  },
+  {
     "noDeReference": "39706790",
     "espece": "Cat",
     "sexe": "Female",
@@ -1272,7 +1371,7 @@
     "taille": "Medium",
     "couleur": "Brown",
     "degriffe": "No",
-    "postingDate": "2018-09-24",
+    "postingDate": "2018-09-10",
     "url": "https://www.spca.com/trouvee/pacha-cat-39693366"
   },
   {
@@ -1585,7 +1684,7 @@
     "couleur": "Grey",
     "degriffe": "No",
     "postingDate": "2018-09-07",
-    "url": "https://www.spca.com/trouvee/39611423-cat-39611423"
+    "url": "https://www.spca.com/trouvee/hubert-cat-39611423"
   },
   {
     "name": "Lucien",
@@ -1597,7 +1696,7 @@
     "couleur": "Brown",
     "degriffe": "No",
     "postingDate": "2018-09-07",
-    "url": "https://www.spca.com/trouvee/39611418-cat-39611418"
+    "url": "https://www.spca.com/trouvee/lucien-cat-39611418"
   },
   {
     "name": "Caleb",
@@ -1609,7 +1708,7 @@
     "couleur": "Grey",
     "degriffe": "No",
     "postingDate": "2018-09-07",
-    "url": "https://www.spca.com/trouvee/39611414-cat-39611414"
+    "url": "https://www.spca.com/trouvee/caleb-cat-39611414"
   },
   {
     "name": "Hector",
@@ -1621,7 +1720,7 @@
     "couleur": "Grey",
     "degriffe": "No",
     "postingDate": "2018-09-07",
-    "url": "https://www.spca.com/trouvee/39611402-cat-39611402"
+    "url": "https://www.spca.com/trouvee/hector-cat-39611402"
   },
   {
     "name": "Clothilde",
@@ -1633,19 +1732,7 @@
     "couleur": "Grey",
     "degriffe": "No",
     "postingDate": "2018-09-07",
-    "url": "https://www.spca.com/trouvee/39611401-cat-39611401"
-  },
-  {
-    "name": "Laurette",
-    "noDeReference": "39611399",
-    "espece": "Cat",
-    "sexe": "Female",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Black",
-    "degriffe": "No",
-    "postingDate": "2018-09-07",
-    "url": "https://www.spca.com/trouvee/39611399-cat-39611399"
+    "url": "https://www.spca.com/trouvee/clothilde-cat-39611401"
   },
   {
     "name": "Jovette",
@@ -1658,7 +1745,7 @@
     "couleur": "Grey",
     "degriffe": "No",
     "postingDate": "2018-09-07",
-    "url": "https://www.spca.com/trouvee/39611394-cat-39611394"
+    "url": "https://www.spca.com/trouvee/jovette-cat-39611394"
   },
   {
     "imgs": [
@@ -1934,7 +2021,9 @@
   {
     "name": "Oslo",
     "imgs": [
-      "http://g.petango.com/photos/2260/da23ca8f-3ec9-42f6-ad9b-b15fd76df18a.jpg"
+      "http://g.petango.com/photos/2260/434bffac-b74a-44ef-bdcb-251156db1e8c.jpg",
+      "http://g.petango.com/photos/2260/3b2fa681-13e1-4502-8e1b-01fffb69c407.jpg",
+      "http://g.petango.com/photos/2260/fc11c298-ea8a-4c75-a78d-858a9b192100.jpg"
     ],
     "noDeReference": "39525946",
     "espece": "Cat",
@@ -2239,18 +2328,6 @@
     "url": "https://www.spca.com/trouvee/39453349-cat-39453349"
   },
   {
-    "name": "Zorro",
-    "noDeReference": "39451561",
-    "espece": "Cat",
-    "sexe": "Male",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Brown",
-    "degriffe": "No",
-    "postingDate": "2018-08-20",
-    "url": "https://www.spca.com/trouvee/zorro-cat-39451561"
-  },
-  {
     "name": "Flash",
     "noDeReference": "39444405",
     "espece": "Cat",
@@ -2321,23 +2398,6 @@
     "degriffe": "No",
     "postingDate": "2018-08-17",
     "url": "https://www.spca.com/trouvee/zig-zag-cat-39433411"
-  },
-  {
-    "name": "Citronnelle",
-    "imgs": [
-      "http://g.petango.com/photos/2260/524d0bb3-97f1-47fd-b127-ee1e4d4dcdc2.jpg",
-      "http://g.petango.com/photos/2260/f97e2a02-57b2-4f40-8bb3-e4ab51fb5d4f.jpg",
-      "http://g.petango.com/photos/2260/9ad3c667-1904-4893-a73e-dbc5b2bd4c79.jpg"
-    ],
-    "noDeReference": "39413494",
-    "espece": "Cat",
-    "sexe": "Female",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Black",
-    "degriffe": "No",
-    "postingDate": "2018-08-15",
-    "url": "https://www.spca.com/trouvee/citronnelle-cat-39413494"
   },
   {
     "name": "Caviar",
@@ -2468,7 +2528,7 @@
     "url": "https://www.spca.com/trouvee/midgi-vlady-cat-39381985"
   },
   {
-    "name": "Vickie",
+    "name": "Vickie (Mya)",
     "noDeReference": "39377988",
     "espece": "Cat",
     "age": 2,
@@ -2478,7 +2538,7 @@
     "couleur": "Black",
     "degriffe": "No",
     "postingDate": "2018-08-11",
-    "url": "https://www.spca.com/trouvee/vickie-cat-39377988"
+    "url": "https://www.spca.com/trouvee/vickie-mya-cat-39377988"
   },
   {
     "name": "Everest",
@@ -2687,9 +2747,9 @@
   {
     "name": "Ti-Bum",
     "imgs": [
-      "http://g.petango.com/photos/2260/21c94451-196b-48f1-bbad-4235dcbec217.jpg",
-      "http://g.petango.com/photos/2260/43732e34-66b8-4083-b958-400b4905bc49.jpg",
-      "http://g.petango.com/photos/2260/1cabbfe5-6845-41a0-b0d1-8b15d4d35fb6.jpg"
+      "http://g.petango.com/photos/2260/c96775a9-75c1-4909-9887-a3efb7d0bb4a.jpg",
+      "http://g.petango.com/photos/2260/0da68b6b-9519-4e79-8cdb-55e7f212c1b8.jpg",
+      "http://g.petango.com/photos/2260/cd9892d7-4296-4c4e-8d5f-f88297a97bc7.jpg"
     ],
     "noDeReference": "39202657",
     "espece": "Cat",
@@ -3059,6 +3119,11 @@
   },
   {
     "name": "Stanley",
+    "imgs": [
+      "http://g.petango.com/photos/2260/829cd6eb-3036-4b71-9e07-a413fc65722c.jpg",
+      "http://g.petango.com/photos/2260/9eca0d24-4b7d-4fbc-ac9f-337c7ec2964c.jpg",
+      "http://g.petango.com/photos/2260/1eb1a4e7-5abe-4370-9b65-363309daa92f.jpg"
+    ],
     "noDeReference": "39128676",
     "espece": "Cat",
     "sexe": "Male",
@@ -3304,20 +3369,6 @@
   },
   {
     "imgs": [
-      "http://g.petango.com/photos/2260/df53e541-6fa4-4357-ae2a-1bdde4762c0a.jpg"
-    ],
-    "noDeReference": "39003939",
-    "espece": "Cat",
-    "sexe": "Male",
-    "race": "Ragdoll",
-    "taille": "Medium",
-    "couleur": "Brown",
-    "degriffe": "No",
-    "postingDate": "2018-06-30",
-    "url": "https://www.spca.com/trouvee/39003939-cat-39003939"
-  },
-  {
-    "imgs": [
       "http://g.petango.com/photos/2260/f9d40373-f4dd-455e-a92e-08ce313cd02e.jpg",
       "http://g.petango.com/photos/2260/2dd2940f-9cc7-41ef-bbc0-3e515faa5fa9.jpg"
     ],
@@ -3342,65 +3393,6 @@
     "degriffe": "No",
     "postingDate": "2018-06-28",
     "url": "https://www.spca.com/trouvee/bara-cat-38989473"
-  },
-  {
-    "imgs": [
-      "http://g.petango.com/photos/2260/6e06f359-c6cb-4b73-852f-c2135fd22899.jpg",
-      "http://g.petango.com/photos/2260/e80f46d5-a971-4b57-ac3f-fbfb95cf97ba.jpg"
-    ],
-    "noDeReference": "38986575",
-    "espece": "Cat",
-    "sexe": "Unknown",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "White",
-    "degriffe": "No",
-    "postingDate": "2018-06-28",
-    "url": "https://www.spca.com/trouvee/38986575-cat-38986575"
-  },
-  {
-    "imgs": [
-      "http://g.petango.com/photos/2260/ff49db63-2498-4022-8f4d-59c5401f67ec.jpg"
-    ],
-    "noDeReference": "38976062",
-    "espece": "Cat",
-    "sexe": "Unknown",
-    "race": "Domestic Medium Hair",
-    "taille": "Medium",
-    "couleur": "Grey",
-    "degriffe": "No",
-    "postingDate": "2018-06-27",
-    "url": "https://www.spca.com/trouvee/38976062-cat-38976062"
-  },
-  {
-    "imgs": [
-      "http://g.petango.com/photos/2260/a2097dc3-bc59-4ea7-b486-5fa497a8a750.jpg"
-    ],
-    "noDeReference": "38963342",
-    "espece": "Cat",
-    "sexe": "Female",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Grey",
-    "degriffe": "No",
-    "postingDate": "2018-06-26",
-    "url": "https://www.spca.com/trouvee/38963342-cat-38963342"
-  },
-  {
-    "imgs": [
-      "http://g.petango.com/photos/2260/963f6644-4e1b-4fc8-ba25-49587279021f.jpg",
-      "http://g.petango.com/photos/2260/3558b977-4dc1-4f10-93dd-fbfbca45a8fa.jpg",
-      "http://g.petango.com/photos/2260/f70ef01a-4d32-4841-8807-a786cbf398f7.jpg"
-    ],
-    "noDeReference": "38956750",
-    "espece": "Cat",
-    "sexe": "Unknown",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Grey",
-    "degriffe": "No",
-    "postingDate": "2018-06-25",
-    "url": "https://www.spca.com/trouvee/38956750-cat-38956750"
   },
   {
     "name": "Bonnie",
@@ -3693,18 +3685,6 @@
     "url": "https://www.spca.com/trouvee/36818193-cat-36818193"
   },
   {
-    "noDeReference": "36753880",
-    "espece": "Cat",
-    "age": 1,
-    "sexe": "Male",
-    "race": "Domestic Shorthair",
-    "taille": "Medium",
-    "couleur": "Beige",
-    "degriffe": "No",
-    "postingDate": "2017-10-06",
-    "url": "https://www.spca.com/trouvee/36753880-cat-36753880"
-  },
-  {
     "name": "Ronron",
     "noDeReference": "35991718",
     "espece": "Cat",
@@ -3734,6 +3714,40 @@
     "degriffe": "No",
     "postingDate": "2016-11-06",
     "url": "https://www.spca.com/trouvee/olie-cat-33926393"
+  },
+  {
+    "name": "Teo",
+    "imgs": [
+      "http://g.petango.com/photos/2260/6a46dea9-43a4-41e4-a3c5-a804dabdfedd.jpg",
+      "http://g.petango.com/photos/2260/faad9dae-0091-4bc3-a61d-66cf222edb65.jpg",
+      "http://g.petango.com/photos/2260/d9b83fef-4640-4937-8b23-4010cda2f3ce.jpg"
+    ],
+    "noDeReference": "30167253",
+    "espece": "Cat",
+    "age": 4,
+    "sexe": "Male",
+    "race": "Domestic Shorthair",
+    "taille": "Medium",
+    "couleur": "Black",
+    "degriffe": "No",
+    "postingDate": "2018-01-23",
+    "url": "https://www.spca.com/trouvee/teo-cat-30167253"
+  },
+  {
+    "name": "Xena",
+    "imgs": [
+      "http://g.petango.com/photos/2260/9ad8d871-9133-4797-a94e-50b62e381ca6.jpg"
+    ],
+    "noDeReference": "29330118",
+    "espece": "Cat",
+    "age": 3,
+    "sexe": "Female",
+    "race": "Domestic Medium Hair",
+    "taille": "Medium",
+    "couleur": "Black",
+    "degriffe": "No",
+    "postingDate": "2018-06-30",
+    "url": "https://www.spca.com/trouvee/xena-cat-29330118"
   },
   {
     "name": "Teo",
