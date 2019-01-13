@@ -43,8 +43,7 @@
     "lint": "standard",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "develop": "gatsby develop --port 8001",
-    "dev": "gatsby develop --port 8001",
+    "start": "gatsby develop --port 8001",
     "clean": "rm public/* .cache -fr",
     "format": "prettier-standard '**/*.+(js|json|md)'"
   }
